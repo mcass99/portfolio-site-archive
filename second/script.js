@@ -21,5 +21,3 @@ darkModeToggle.addEventListener("click", () => {
         darkModeToggle.src = "assets/light.png";
     }
 })
-
-// Contact form from some shitty website cuz I'm a lazy skid
